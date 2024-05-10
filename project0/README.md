@@ -1,0 +1,1 @@
+My name is Nian Ying Wang. I'm hoping to gain more exposure to C and C++ language to be able to debug application issue at work. I found the experience of Git repository and Docker easy to follow and quick to set up. I had previous exposure with linux command line so I'm familiar with the content and how to set it up. I found the guidance to be detailed and easy to follow.
